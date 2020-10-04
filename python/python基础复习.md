@@ -6,6 +6,8 @@
 
 ### list列表
 
+1. 反转输出list
+
 比较类似于不指定类型的数组
 
 以下实例可以将字符串反转输出
@@ -15,6 +17,16 @@
 ```python
 a = [1, 2, 3, 4, 7, 9, 11]
 print(a[-1 : : -1])
+```
+
+2. 创建二维list
+
+可以借助生成器来实现
+
+```python
+Max = 10
+mp = [[0 for i in range(0, Max)] for j in range(0, Max)]
+print(mp)
 ```
 
 ### tuple元组
