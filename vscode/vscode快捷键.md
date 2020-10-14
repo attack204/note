@@ -22,6 +22,8 @@ ctrl + w关闭当前窗口
 
 ctrl + tab切换窗口
 
+ctrl + k v打开侧边栏预览(正确按法是ctrl + K，松开，再按v)
+
 ## 参考资料
 
 [vscode多光标编辑](https://blog.csdn.net/Gomeer/article/details/91417928)
