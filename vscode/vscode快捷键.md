@@ -29,3 +29,6 @@ ctrl + k v打开侧边栏预览(正确按法是ctrl + K，松开，再按v)
 [vscode多光标编辑](https://blog.csdn.net/Gomeer/article/details/91417928)
 
 
+非常好的文章[vscode快捷键的分析和助记](https://zhuanlan.zhihu.com/p/66826924)
+
+[csdn版本](https://blog.csdn.net/weixin_42613208/article/details/90513209)
