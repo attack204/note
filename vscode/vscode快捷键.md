@@ -16,6 +16,10 @@ ctrl + d:
 
 shift + tab: 反向tab
 
+ctrl + L 选中整行，再使用一次会选中下一行
+
+ctrl + C/X 在未选中当前行内元素的情况下可以复制/剪切整行
+
 ## ide操作
 
 ctrl + w关闭当前窗口
